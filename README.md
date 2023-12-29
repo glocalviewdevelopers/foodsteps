@@ -18,8 +18,8 @@ Foodsteps is a mobile app designed to help users create delicious meals effortle
 - Nodejs
 
 # Platform:
-  - Web
-  - Mobile
+- Web
+- Mobile
   
 # Website URL:
 https://foodsteps.no/ 
