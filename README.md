@@ -17,7 +17,7 @@ Foodsteps is a mobile app designed to help users create delicious meals effortle
 - Flutter (Dart)
 - Nodejs
 
-  # Platform:
+# Platform:
   - Web
   - Mobile
   
