@@ -13,14 +13,16 @@ Foodsteps is a mobile app designed to help users create delicious meals effortle
 - Aims to elevate culinary skills and reduce food waste. Encourages readers to download and try the app for free.
 - Emphasizes the transformative impact on users' kitchens.
 
+# Platform:
+- Web
+- Mobile
+
+  
 # Technologies Used:
 - Flutter (Dart)
 - Nodejs
 
-# Platform:
-- Web
-- Mobile
-  
+ 
 # Website URL:
 https://foodsteps.no/ 
 
